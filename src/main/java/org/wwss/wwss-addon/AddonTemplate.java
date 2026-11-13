@@ -1,4 +1,4 @@
-package com.example.addon;
+package org.wwss.addon;
 
 import com.example.addon.commands.CommandExample;
 import com.example.addon.hud.HudExample;

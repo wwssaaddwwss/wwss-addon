@@ -1,4 +1,4 @@
-package com.example.addon.mixin;
+package org.wwss.wwss-addon.mixin;
 
 import com.example.addon.AddonTemplate;
 import net.minecraft.client.Minecraft;
